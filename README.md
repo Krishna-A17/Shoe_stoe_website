@@ -1,4 +1,4 @@
-# Shoe_stoe_website
+# Shoe_store_website
 
 # for Live Link: [Click here](https://ecommerceshoes01.netlify.app/)
 
